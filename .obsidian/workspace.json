@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "05149ea461ae88de",
+    "type": "split",
+    "children": [
+      {
+        "id": "223c8706bcb552fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d6bf9821c045fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作记录/2023-10-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c83892c5671bfdb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9a1819ef8d5f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23eeecf2afcdc2e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6e613e986cb17d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00fd480c1ac45775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3133f3991fc57e86",
+    "type": "split",
+    "children": [
+      {
+        "id": "e979959d15325b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d86f523283b0d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作记录/2023-10-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b394bfac52a6f03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工作记录/2023-10-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3e64082ce4bef91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73591b76cb75c105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工作记录/2023-10-17.md"
+              }
+            }
+          },
+          {
+            "id": "fff5238d3a94f230",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "51d6bf9821c045fb",
+  "lastOpenFiles": [
+    "工作记录/2023-10-18.md",
+    "工作记录/2023-10-17.md",
+    "容灾知识",
+    "工作记录",
+    "工作记录.canvas",
+    "未命名 1.canvas"
+  ]
+}
