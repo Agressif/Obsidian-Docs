@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "223c8706bcb552fd",
+        "id": "b5ebfe6bd7ddd545",
         "type": "tabs",
         "children": [
           {
-            "id": "51d6bf9821c045fb",
+            "id": "4875cc27e6896114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作记录/2023-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a21d6479d3be4a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作记录/2023-12-12.md",
+                "file": "容器/Containerd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作记录/2023-12-12.md",
+                "file": "容器/Containerd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/2023-12-12.md",
+                "file": "容器/Containerd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/2023-12-12.md"
+                "file": "容器/Containerd.md"
               }
             }
           },
@@ -167,14 +154,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a21d6479d3be4a81",
+  "active": "4875cc27e6896114",
   "lastOpenFiles": [
-    "工作记录/2023-12-11.md",
-    "工作记录/2023-12-12.md",
-    "工作记录/2023-10-19.md",
-    "未命名",
-    "工作记录/2023-10-20.md",
     "工作记录/2023-10-18.md",
+    "容器/Containerd.md",
+    "容灾知识/QCOW2.md",
+    "容器",
+    "工作记录/2023-12-12.md",
+    "K8S",
+    "工作记录/2023-12-11.md",
+    "工作记录/2023-10-19.md",
+    "工作记录/2023-10-20.md",
     "工作记录/2023-10-17.md",
     "容灾知识",
     "工作记录",
